@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <resources>
+        <string-array name="number_systems">
+            <item>Decimal (Base 10)</item>
+            <item>Binary (Base 2)</item>
+            <item>Octal (Base 8)</item>
+            <item>Hexadecimal (Base 16)</item>
+        </string-array>
+    </resources>
